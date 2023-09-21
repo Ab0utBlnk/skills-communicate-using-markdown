@@ -5,3 +5,6 @@ Nice to meet you!
 ``` javascript
 var myVar = "Hello again, world!";
 ```
+- [x] Hello World
+- [x] Image od the world
+- [ ] Goodbye World
